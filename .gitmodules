@@ -1,4 +1,3 @@
 [submodule "auth-sub"]
 	path = auth-sub
 	url = https://github.com/lancemayer/auth-sub.git
-	branch = HEAD
